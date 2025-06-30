@@ -14,7 +14,9 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+<h3>
 
 ```typescript
 const fathir = {
@@ -25,6 +27,8 @@ const fathir = {
   funFact: "I see patterns in chaos and opportunities in disruption"
 };
 ```
+
+</h3>
 
 - 🔭 Currently exploring **blockchain applications in digital economy**
 - 🌱 Learning about **AI and decentralized finance intersection**  
