@@ -1,59 +1,160 @@
-▓█████▄  ██▓  ▄████  ██▓▄▄▄█████▓ ▄▄▄       ██▓        
-▒██▀ ██▌▓██▒ ██▒ ▀█▒▓██▒▓  ██▒ ▓▒▒████▄    ▓██▒        
-░██   █▌▒██▒▒██░▄▄▄░▒██▒▒ ▓██░ ▒░▒██  ▀█▄  ▒██░        
-░▓█▄   ▌░██░░▓█  ██▓░██░░ ▓██▓ ░ ░██▄▄▄▄██ ▒██░        
-░▒████▓ ░██░░▒▓███▀▒░██░  ▒██▒ ░  ▓█   ▓██▒░██████▒    
- ▒▒▓  ▒ ░▓   ░▒   ▒ ░▓    ▒ ░░    ▒▒   ▓▒█░░ ▒░▓  ░    
- ░ ▒  ▒  ▒ ░  ░   ░  ▒ ░    ░      ▒   ▒▒ ░░ ░ ▒  ░    
- ░ ░  ░  ▒ ░░ ░   ░  ▒ ░  ░        ░   ▒     ░ ░       
-   ░     ░        ░  ░                 ░  ░    ░  ░    
- ░                                                     
+# 
 
-     THINKER • ANALYST • STORYTELLER
-Currently exploring the intersection of blockchain technology and digital economy, with a focus on how emerging tech reshapes traditional business paradigms.
-
-
-# Fathir Anugrah
-
-**Digital Thinker • Crypto Enthusiast • Tech Storyteller**
-
-Currently exploring the intersection of blockchain technology and digital economy, with a focus on how emerging tech reshapes traditional business paradigms.
-
-## About Me
-
-I'm a Digital Business student passionate about data-driven innovation and emerging technologies. My work spans across market research, cryptocurrency analysis, and exploring how AI intersects with decentralized finance.
-
-Beyond academics, I enjoy analyzing market trends, contributing to tech discussions, and working on projects that bridge digital systems with real-world impact.
-
-## Current Focus
-
-- 🔬 **Research**: Blockchain applications in digital economy
-- 📊 **Analysis**: Market trends and consumer behavior patterns  
-- 💡 **Innovation**: AI and decentralized finance intersection
-- ✍️ **Writing**: Tech insights and real-world applications
-
-## Skills & Interests
-
-**Research & Analysis**
-- Market Research • Business Strategy • Digital Marketing
-- Macroeconomic Analysis • Public Speaking
-
-**Technologies**
-- Blockchain Technology • Cryptocurrency Analysis
-- Data Analysis • Digital Systems Integration
-
-Languages & Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<div align="center">
+  
+  <!-- Header dengan gradient dan animasi -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fathir%20Anugrah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Digital%20Thinker%20•%20Crypto%20Enthusiast%20•%20Tech%20Storyteller&descAlignY=55&descSize=18"/>
+  
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Exploring+Blockchain+%26+Digital+Economy;AI+%2B+DeFi+Intersection+Researcher;Data-Driven+Innovation+Advocate" alt="Typing SVG" />
+  
 </div>
 
-**Connect**
+<br>
 
-🌐 [Portfolio](https://www.autonomousmind.my.id) • 📧 [Email](mailto:muhamadfatir030898@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/fathiranugrah/)
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+```typescript
+const fathir = {
+  role: "Digital Business Student",
+  focus: ["Blockchain", "Cryptocurrency", "AI & DeFi"],
+  passion: "Bridging digital systems with real-world impact",
+  currentlyLearning: "Advanced market analysis & emerging tech",
+  funFact: "I see patterns in chaos and opportunities in disruption"
+};
+```
+
+- 🔭 Currently exploring **blockchain applications in digital economy**
+- 🌱 Learning about **AI and decentralized finance intersection**  
+- 👯 Looking to collaborate on **innovative fintech projects**
+- 💬 Ask me about **crypto analysis, market trends, digital strategy**
+- ⚡ Fun fact: **I turn complex data into actionable insights**
+
+<br>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming & Development
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,github&theme=dark" />
+
+### 🔧 Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=vscode,figma,discord,linkedin&theme=dark" />
+
+### 📊 Data & Analysis
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
+<br>
+
+## 📈 Current Focus Areas
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitcoin/bitcoin-original.svg" width="50" alt="Blockchain"/>
+        <br><strong>Blockchain Research</strong>
+        <br><em>Exploring real-world applications</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Data Analysis"/>
+        <br><strong>Market Analysis</strong>
+        <br><em>Data-driven insights</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="Innovation"/>
+        <br><strong>AI + DeFi</strong>
+        <br><em>Future of finance</em>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fathiranugrah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathiranugrah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathiranugrah&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  
+</div>
+
+<br>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  
+  <a href="https://github.com/fathiranugrah/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fathiranugrah&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/fathiranugrah/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fathiranugrah&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  
+</div>
+
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+  <a href="https://www.autonomousmind.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-0A66C2?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fathiranugrah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:muhamadfatir030898@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+</div>
+
+<br>
+
+## 🎯 Fun Stats
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=fathiranugrah&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/fathiranugrah?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers"/>
+  
+</div>
+
+<br>
 
 ---
 
-*"The future of business is built at the intersection of data, strategy, and emerging tech"*
+<div align="center">
+  
+  ### 💭 Philosophy
+  
+  > *"The future of business is built at the intersection of data, strategy, and emerging tech"*
+  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Rocket"/>
+  
+  **Always learning, always building, always innovating** 🚀
+  
+</div>
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
