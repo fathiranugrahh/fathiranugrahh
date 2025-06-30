@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Header dengan gradient dan animasi -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fathir%20Anugrah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Digital%20Thinker%20•%20Crypto%20Enthusiast%20•%20Tech%20Storyteller&descAlignY=55&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27&height=200&section=header&text=Fathir%20Anugrah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Digital%20Thinker%20•%20Crypto%20Enthusiast%20•%20Tech%20Storyteller&descAlignY=55&descSize=18"/>
   
   <!-- Typing animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Exploring+Blockchain+%26+Digital+Economy;AI+%2B+DeFi+Intersection+Researcher;Data-Driven+Innovation+Advocate" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="350" height="230" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="370" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h3>
 
@@ -64,7 +64,7 @@ const fathir = {
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://www.svgrepo.com/show/428655/bitcoin-btc-cryptocurrency.svg" width="50" alt="Blockchain"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitcoin/bitcoin-original.svg" width="50" alt="Blockchain"/>
         <br><strong>Blockchain Research</strong>
         <br><em>Exploring real-world applications</em>
       </td>
@@ -161,4 +161,4 @@ const fathir = {
 </div>
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27&height=100&section=footer"/>  
