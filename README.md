@@ -27,9 +27,16 @@ Beyond academics, I enjoy analyzing market trends, contributing to tech discussi
 - Blockchain Technology • Cryptocurrency Analysis
 - Data Analysis • Digital Systems Integration
 
+Languages & Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
 ## Connect
 
-🌐 [Portfolio](https://www.autonomousmind.my.id) • 📧 [Email](mailto:your-email@gmail.com) • 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+🌐 [Portfolio](https://www.autonomousmind.my.id) • 📧 [Email](mailto:muhamadfatir030898@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/fathiranugrah/)
 
 ---
 
