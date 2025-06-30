@@ -1,3 +1,9 @@
+<div align="center">
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Fathir%20Anugrah&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Digital%20Thinker%20•%20Crypto%20Enthusiast%20•%20Tech%20Storyteller&descAlignY=55&descSize=18"/>
+</div>
+Currently exploring the intersection of blockchain technology and digital economy, with a focus on how emerging tech reshapes traditional business paradigms.
+
+
 # Fathir Anugrah
 
 **Digital Thinker • Crypto Enthusiast • Tech Storyteller**
