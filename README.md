@@ -1,5 +1,8 @@
 <div align="center">
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Fathir%20Anugrah&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Digital%20Thinker%20•%20Crypto%20Enthusiast%20•%20Tech%20Storyteller&descAlignY=55&descSize=18"/>
+  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&reversal=false&textBg=false"/>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&width=600&height=100&lines=Digital+Thinker;Crypto+Enthusiast;Tech+Storyteller;Blockchain+Researcher" alt="Typing SVG" />
 </div>
 Currently exploring the intersection of blockchain technology and digital economy, with a focus on how emerging tech reshapes traditional business paradigms.
 
