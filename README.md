@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <h3>
 
@@ -64,7 +64,7 @@ const fathir = {
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitcoin/bitcoin-original.svg" width="50" alt="Blockchain"/>
+        <img src="https://www.svgrepo.com/show/428655/bitcoin-btc-cryptocurrency.svg" width="50" alt="Blockchain"/>
         <br><strong>Blockchain Research</strong>
         <br><em>Exploring real-world applications</em>
       </td>
