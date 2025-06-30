@@ -34,7 +34,8 @@ Languages & Tools
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
-## Connect
+
+**Connect**
 
 🌐 [Portfolio](https://www.autonomousmind.my.id) • 📧 [Email](mailto:muhamadfatir030898@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/fathiranugrah/)
 
