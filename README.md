@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="370" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <h3>
 
@@ -161,4 +161,4 @@ const fathir = {
 </div>
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27&height=100&section=footer"/>  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27&height=100&section=footer"/>
