@@ -1,25 +1,28 @@
 <h2 align="center">📖 About me</h2>
 
-🔭 Open to internships
+<img align="right" width="200" src="profile.jpg" alt="Fathir Anugrah">
 
-I'm a Digital Business graduate from Makassar, Indonesia. I work at the intersection of business analysis, data analytics, and digital solutions — turning real business problems into working software.
+<p align="justify">Hello, I'm Fathir Anugrah, a Digital Business graduate from Universitas Negeri Makassar. I focus on real operational problems and turn them into working digital solutions. I work on process analysis, data visualization, and automation workflows built on APIs and AI. My thesis explored crypto price trends through public figure sentiment using machine learning. I keep following the space between a real problem and a useful build.</p>
 
-I build full-stack web apps (Next.js, NestJS) and machine learning pipelines (Python, TensorFlow), and I'm currently applying for internship programs.
+- 🏆 2nd place at Digital Marketing Day with NusantaraX
+- 🤖 Built Hermes, an AI agent for crypto market analysis
+- 📊 Thesis on crypto price trends from public figure sentiment
+- 🔍 Focused on business analysis, data, and process design
 
 <h2 align="center">🛠️ Technologies</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hermes_Agent-161b22?style=flat-square" alt="Hermes Agent">
-  <img src="https://img.shields.io/badge/Cursor-161b22?style=flat-square&logo=cursor&logoColor=white" alt="Cursor">
-  <img src="https://img.shields.io/badge/Claude-161b22?style=flat-square&logo=claude&logoColor=D97757" alt="Claude">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-161b22?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Codex-161b22?style=flat-square&logo=openai&logoColor=white" alt="Codex">
-  <img src="https://img.shields.io/badge/Kiro-161b22?style=flat-square" alt="Kiro">
-  <img src="https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase">
-  <img src="https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-161b22?style=flat-square&logo=microsoftexcel&logoColor=217346" alt="Microsoft Excel">
-  <img src="https://img.shields.io/badge/Microsoft_Word-161b22?style=flat-square&logo=microsoftword&logoColor=2B579A" alt="Microsoft Word">
-  <img src="https://img.shields.io/badge/Amazon_Web_Services-161b22?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="Amazon Web Services">
+  <img src="https://fathiranugrah.com/tools/Hermes-Agent.svg" height="48" alt="Hermes Agent">
+  <img src="https://svgl.app/library/cursor_dark.svg" height="48" alt="Cursor">
+  <img src="https://svgl.app/library/claude-ai-icon.svg" height="48" alt="Claude">
+  <img src="https://svgl.app/library/vscode.svg" height="48" alt="Visual Studio Code">
+  <img src="https://svgl.app/library/codex_dark.svg" height="48" alt="Codex">
+  <img src="https://fathiranugrah.com/tools/Kiro.svg" height="48" alt="Kiro">
+  <img src="https://svgl.app/library/supabase.svg" height="48" alt="Supabase">
+  <img src="https://svgl.app/library/mysql-icon-dark.svg" height="48" alt="MySQL">
+  <img src="https://svgl.app/library/microsoft-excel.svg" height="48" alt="Microsoft Excel">
+  <img src="https://svgl.app/library/microsoft-word.svg" height="48" alt="Microsoft Word">
+  <img src="https://svgl.app/library/aws_dark.svg" height="48" alt="Amazon Web Services">
 </p>
 
 <h2 align="center">📊 Statistics</h2>
